@@ -1,7 +1,7 @@
 Документация по API
 
 Базовый URL
-http://127.0.0.1:5000/api/boats
+http://127.0.0.1:5000/api/boats (Хоста нет)
 
 1. Создание лодки
 API: POST /api/boats
